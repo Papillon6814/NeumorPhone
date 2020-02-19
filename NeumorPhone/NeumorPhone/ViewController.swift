@@ -7,14 +7,18 @@
 //
 
 import UIKit
+import ReplayKit
 
 class ViewController: UIViewController {
+    
+    let rpScreenRecorder: RPScreenRecorder = RPScreenRecorder.shared()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
+    
+    @IBAction func startScreenCapture(_ sender: Any) {
+        //rpScreenRecorder.startCapture(handler: <#T##((CMSampleBuffer, RPSampleBufferType, Error?) -> Void)?##((CMSampleBuffer, RPSampleBufferType, Error?) -> Void)?##(CMSampleBuffer, RPSampleBufferType, Error?) -> Void#>, completionHandler: <#T##((Error?) -> Void)?##((Error?) -> Void)?##(Error?) -> Void#>)
+    }
 }
 

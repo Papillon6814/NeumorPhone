@@ -16,6 +16,7 @@
 		412EB95E23FD1412000FDAA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 412EB95C23FD1412000FDAA3 /* LaunchScreen.storyboard */; };
 		412EB96923FD1413000FDAA3 /* NeumorPhoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EB96823FD1413000FDAA3 /* NeumorPhoneTests.swift */; };
 		412EB97423FD1413000FDAA3 /* NeumorPhoneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EB97323FD1413000FDAA3 /* NeumorPhoneUITests.swift */; };
+		412EB98323FD3386000FDAA3 /* RTMPBroadcaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EB98223FD3386000FDAA3 /* RTMPBroadcaster.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		412EB96F23FD1413000FDAA3 /* NeumorPhoneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NeumorPhoneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		412EB97323FD1413000FDAA3 /* NeumorPhoneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorPhoneUITests.swift; sourceTree = "<group>"; };
 		412EB97523FD1413000FDAA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		412EB98223FD3386000FDAA3 /* RTMPBroadcaster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RTMPBroadcaster.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		412EB94D23FD140E000FDAA3 /* NeumorPhone */ = {
 			isa = PBXGroup;
 			children = (
+				412EB98123FD3352000FDAA3 /* Tools */,
 				412EB94E23FD140E000FDAA3 /* AppDelegate.swift */,
 				412EB95023FD140E000FDAA3 /* SceneDelegate.swift */,
 				412EB95223FD140E000FDAA3 /* ViewController.swift */,
@@ -129,6 +132,14 @@
 				412EB97523FD1413000FDAA3 /* Info.plist */,
 			);
 			path = NeumorPhoneUITests;
+			sourceTree = "<group>";
+		};
+		412EB98123FD3352000FDAA3 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				412EB98223FD3386000FDAA3 /* RTMPBroadcaster.swift */,
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,6 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				412EB95923FD140E000FDAA3 /* NeumorPhone.xcdatamodeld in Sources */,
+				412EB98323FD3386000FDAA3 /* RTMPBroadcaster.swift in Sources */,
 				412EB95323FD140E000FDAA3 /* ViewController.swift in Sources */,
 				412EB94F23FD140E000FDAA3 /* AppDelegate.swift in Sources */,
 				412EB95123FD140E000FDAA3 /* SceneDelegate.swift in Sources */,
