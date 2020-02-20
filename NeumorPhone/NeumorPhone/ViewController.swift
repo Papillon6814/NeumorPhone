@@ -9,7 +9,7 @@
 import UIKit
 import ReplayKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, RPScreenRecorderDelegate {
     
     let rpScreenRecorder: RPScreenRecorder = RPScreenRecorder.shared()
 
@@ -18,7 +18,32 @@ class ViewController: UIViewController {
     }
     
     @IBAction func startScreenCapture(_ sender: Any) {
-        //rpScreenRecorder.startCapture(handler: <#T##((CMSampleBuffer, RPSampleBufferType, Error?) -> Void)?##((CMSampleBuffer, RPSampleBufferType, Error?) -> Void)?##(CMSampleBuffer, RPSampleBufferType, Error?) -> Void#>, completionHandler: <#T##((Error?) -> Void)?##((Error?) -> Void)?##(Error?) -> Void#>)
+        rpScreenRecorder.startCapture(handler: { (cmSampleBuffer, rpSampleBufferType, error) in
+            if (error != nil) {
+                print("Error is occurred: \(error.debugDescription)")
+            } else {
+                if (rpSampleBufferType == RPSampleBufferType.audioApp) {
+                    print("Audio")
+                } else if (rpSampleBufferType == RPSampleBufferType.video) {
+                    print("video")
+                }
+            }
+        }, completionHandler: { (error) in
+            if (error != nil) {
+                print("error occurred: \(error.debugDescription)")
+            } else {
+                print("Success")
+            }
+        })
+    }
+    
+    // MARK: RPScreenRecorderDelegate
+    public func screenRecorder(_ screenRecorder: RPScreenRecorder, didStopRecordingWith previewViewController: RPPreviewViewController?, error: Error?) {
+        print("Stopped recording")
+    }
+    
+    public func screenRecorderDidChangeAvailability(_ screenRecorder: RPScreenRecorder) {
+        print("Screen recorder changed the availability")
     }
 }
 
