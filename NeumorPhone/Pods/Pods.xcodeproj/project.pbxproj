@@ -12,22 +12,21 @@
 		03D81EFE789C57FBC7D9B76244627151 /* H264Encoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2786435E916E8BAB7388A6170797068B /* H264Encoder.swift */; };
 		0543F9772A44CB2904B25B1A4C5A5A61 /* M3U.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07F3F791E2303DCF81BEC9031839F416 /* M3U.swift */; };
 		0706776D014BC7ED962320DF29A62FB4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */; };
+		07721D7ECCBF25CE39EC3EECE4F095FE /* Pods-NeumorPhone-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = ADCFD7BB89873692D71FFA863A8DFCAD /* Pods-NeumorPhone-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		08037EAB7347E8E9D3793C3E94D825BD /* MIME.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5365EA1A789FE2E6213C19468801B2C2 /* MIME.swift */; };
 		08D881234FB4180444EC6E15C6B6E126 /* RTMPConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA3B864E6F882467D8C8B788D8A5BE9 /* RTMPConnection.swift */; };
 		0B76CB2011AED46CA9F99E0D3902690B /* CMBlockBuffer+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6F5B74ABAFBDFD9D390616F869FE28 /* CMBlockBuffer+Extension.swift */; };
 		0EE3C125CF4DDA755A170898CE355839 /* Running.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC755462AD360CAA119AD8E31385CA8C /* Running.swift */; };
 		0FE0470BD0A23CCCBDAFE76DF16CEE08 /* SoundTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A16CF76E02D47AF95E1133F13A074D1 /* SoundTransform.swift */; };
 		11C006071F9103F504A47640655445F4 /* NetStream+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 262F30C205A74B220D0DDBEA4CA88C91 /* NetStream+Extension.swift */; };
-		1DDBA1CA8FF8D723C0ABBADC7255B2BE /* Pods-NeumorPhoneTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 92E66A9008D9C23BA1592CBC5886E6F4 /* Pods-NeumorPhoneTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1EBD979916A2481684B32BE729833862 /* ScreenCaptureSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCD379E28EB26CAF4E1A033B2ABBFF5 /* ScreenCaptureSession.swift */; };
 		223A3BBEB7B5FDF52FB49946B06F03BA /* CMVideoFormatDescription+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACCDE6DE4A15BB1BC8C84BE266D1B673 /* CMVideoFormatDescription+Extension.swift */; };
 		22D402C4ED7FF465120557D3E74D87D4 /* AMF3Serializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818B05335B34C4BF9B13751118DB0A32 /* AMF3Serializer.swift */; };
 		2421EFE03DD81F6B58DF7656BBAF47C1 /* AnyUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = D55D3EB0A294B2AA9D7ADD35D8E5595A /* AnyUtil.swift */; };
-		2B3AC9E2151A28A877379345CC24BB3A /* Pods-NeumorPhone-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A495D0E4EDAB2D89C8E41D32650A0EF /* Pods-NeumorPhone-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2CC37A5B2D93C38AA63465A2B65A5203 /* MP4Sampler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459BD915893DEDE155479362701F7546 /* MP4Sampler.swift */; };
 		2E7F9D57BE80B44E53C7B1EA0D5F18C4 /* AMF0Serializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9E61D66C2CF6EC943143C2EC9E6583 /* AMF0Serializer.swift */; };
-		3AFFD187B243428F4FDD43E544603E1F /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6BA4B0783DA42AAB4AB606A18E174B8C /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3C5A281343DBE93BAA96D6B2282C9692 /* IOComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10CEDC9024A4414716678C0771578001 /* IOComponent.swift */; };
+		3E62F3A25C732CAF8A70BC87BE557C02 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */; };
 		3F30F82A47B930DA3F83E3FBA71D07C4 /* Logboard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A7A29A4D161F2A046D54B27F4DF4F2F /* Logboard.framework */; };
 		3F9B5F5E83D18978EA3935DF3CA3C1E0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */; };
 		404EDB4BDD68F902C1B0FB6ACBEE3957 /* GLHKView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F30203A048808BA6EDADAE24C619DD80 /* GLHKView.swift */; };
@@ -42,8 +41,7 @@
 		52D19B527D5B92B839195AB39534C7CF /* RTMPChunk.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8BE60F63C55C6179C6C21BFC9306C21 /* RTMPChunk.swift */; };
 		53C1C5CC4120F45DB8174B698D6057B5 /* AudioConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F4C5C94D886A658B6E5E18F5968BEBE /* AudioConverter.swift */; };
 		53D8AD51EB135A2EA19691E0938C255E /* AudioConverter.Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140AC71CA3D0085B9B8C3384E515CEBC /* AudioConverter.Destination.swift */; };
-		548C2946D9A3DE3BFA337EF57791D365 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F8A169F0A8F0835A0142A95DBF526419 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m */; };
-		57EF27F40F3253D2EADE784159BF3AA2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */; };
+		56085AB7C7D22E37A0137B5C35304DDB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */; };
 		583FC9BD3641FEB59203E71365DC387E /* Logboard.Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E6A6EA118BC86853B2B1996EF45B96 /* Logboard.Data.swift */; };
 		5C891447CFDB71D18F11C2430E078F46 /* MTHKView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF3205610100D6167FF687E9B4C44B5 /* MTHKView.swift */; };
 		5F487D350FB73A43680922BE8D2802E2 /* FLVAVCPacketType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D7ED47CC5338F70A6411415A46C1F9 /* FLVAVCPacketType.swift */; };
@@ -60,11 +58,14 @@
 		7B24F49866791C0C22E6778AEED07906 /* CMAudioFormatDescription+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7063E009833D41499444C84D6E3932B /* CMAudioFormatDescription+Extension.swift */; };
 		7D59704690F4965AC41AA930785FEF3C /* AudioSpecificConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48A053F2F7172A87875254000691662 /* AudioSpecificConfig.swift */; };
 		7D91C1430A49A57F7D95BDC1F083AA24 /* VTCompressionSessionPropertyKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0818E2E0C080F56F32BC5AB51ABB5747 /* VTCompressionSessionPropertyKey.swift */; };
+		801C8803ECF4C942F80B250398AC3AC5 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E7C7C282F8AFC63CC95332495C7D6DA2 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m */; };
 		810F8A3EB4BAC86A78C0E0780AB9BB96 /* VideoIOComponent+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97FE0DE2A9FD4DB1553766C902333B8A /* VideoIOComponent+Extension.swift */; };
 		82E5D35928361ADB34522BBC02BEA3FC /* HTTPStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = EABA309D5292F50F989D5A4F42E0AA26 /* HTTPStream.swift */; };
 		86CAF0DDEE85A63CA69C675C9BE2F01B /* ByteArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AD95DF8A32BFF42A9DA1F2BA5FA609 /* ByteArray.swift */; };
 		8955464AF47EEE4EBC5C45B97EC903A8 /* DeviceUtil+Extenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7325AA49EC705BDD23B9A6F35C58A5CB /* DeviceUtil+Extenstion.swift */; };
 		8A4A68913D8DC404029E709BC966DF9F /* RTMPNWSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C74D2DD6DD14067148AD112EB98FE53 /* RTMPNWSocket.swift */; };
+		8B39930A4FE47D75587B1733465D9E46 /* Pods-NeumorPhoneTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8265AE56E520958A49381EB868995C5E /* Pods-NeumorPhoneTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8C3B5D0B7CACF41ECB54C30609EDA7D0 /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96D2A81EB55BA291976D6A2CC343CF3E /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		90FD73702AC7F90CAAC2EC27D4F83660 /* PacketizedElementaryStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5C59F8035D2714DF8E729B1E2785DE /* PacketizedElementaryStream.swift */; };
 		912BDC6C78774FAF99AAD5AB0FDA7422 /* RTMPTSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4CEC74824DD6ABEC7A3311D1A89E056 /* RTMPTSocket.swift */; };
 		9357264F426094FACE1E4EA7C1BE2943 /* Logboard-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 96B80B14920E49F0C6D66A57855064F4 /* Logboard-dummy.m */; };
@@ -87,6 +88,7 @@
 		B8B5A160B4536512AAFAE9224012F78F /* ProgramSpecific.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E9CC0355CEFC3B587B4115451886FE /* ProgramSpecific.swift */; };
 		B9D3B3DA7EB785901E77110DB035A2CF /* EventDispatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6E494E41FAF82B9C98D836D77EDB21 /* EventDispatcher.swift */; };
 		BA1854A728A2C1F45A5D6ABDBCDD87E6 /* FLVAACPacket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F40E743D177C504F724A31D68E61A5 /* FLVAACPacket.swift */; };
+		BB0F4A597209E81124BD90F88C3C995E /* Pods-NeumorPhone-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA099BC6B123A0673C96012573FE746 /* Pods-NeumorPhone-dummy.m */; };
 		BBF4489F5D23D75A1AE9E67AD873A80C /* RTMPSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A3C6BB76D030E21BB71198CFBEC1A7 /* RTMPSocket.swift */; };
 		BEBF34351FF857B844B38A1DAEB3BB0D /* DisplayLinkedQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753D0B577FEC1E07BF3F033F0D70E8A /* DisplayLinkedQueue.swift */; };
 		BF93378FE44504F844FCDFD99C15915D /* NetStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = E32AABDC673EC55729BE6776A013D417 /* NetStream.swift */; };
@@ -97,13 +99,13 @@
 		C417193D92C6506ED95654EC8FEEAF72 /* FLVAudioCodec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0163CA682C73B04CE2EE00EEB6498B24 /* FLVAudioCodec.swift */; };
 		C56EDCEFBECA40E972F01FEBB33802C9 /* NullAppender.swift in Sources */ = {isa = PBXBuildFile; fileRef = A60785B707626B7970B9CF00109564E0 /* NullAppender.swift */; };
 		C5E1021EBA2852C48357D2ACAB884DE1 /* RTMPSocketCompatible.swift in Sources */ = {isa = PBXBuildFile; fileRef = E504EB182128A4B40DE3199268251820 /* RTMPSocketCompatible.swift */; };
-		C7058248A38004A2BB8849BD72587301 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */; };
+		C613D395CC87120DA6DF99A22BD7AC6A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */; };
 		C79330469AD554405525279A71755E9F /* RTMPStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD87E5A5ECF9AEBBFD52300DDD168AF1 /* RTMPStream.swift */; };
 		C979F7E552FA5EDF21FBB125AC881355 /* TransportStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39A97645169396CE7959BF053EBAD5 /* TransportStream.swift */; };
 		C9A0C94D064F7EB22BA485F03098F84C /* DeviceUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74D38D86422ED9BF4888816654BF9C1E /* DeviceUtil.swift */; };
 		C9F5DF03BEBBF14086D97CA6DA09499A /* RTMPStreamDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E101FDACD5D8AC05BA1DCAB7B696AF7 /* RTMPStreamDelegate.swift */; };
-		CC918B18986E55304BA3CDFD04D14689 /* Pods-NeumorPhone-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B50CB77C437DCB560150141F331F92A /* Pods-NeumorPhone-dummy.m */; };
 		CD09921211C33DDF6AD2AF57229A0B1E /* Logboard-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 51E884E49231C5D77F1450AB63EC8CF2 /* Logboard-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CF282FDFFA00DC888CB926EE5C480294 /* Pods-NeumorPhoneTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2774ADD729F605DE0C527D2CC818F1F5 /* Pods-NeumorPhoneTests-dummy.m */; };
 		CF33ABC3C72DD315AACFF66B8022D498 /* Mirror+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E1443B9BABFB9D4D3CF5F4114FF3E8 /* Mirror+Extension.swift */; };
 		CF95F98039D37C0E99DDE376EF5AD130 /* ExpressibleByIntegerLiteral+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA992F402EA5D44CB1B9080ED2D8021 /* ExpressibleByIntegerLiteral+Extension.swift */; };
 		D2127526E0383F36E43282BAE39E7AA6 /* ScalingMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E55B41CC51166C2E804DD5B17D80D4 /* ScalingMode.swift */; };
@@ -123,27 +125,18 @@
 		E692DF82D5B652DF9E8DB6D89166679C /* MultiAppender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015D62E904F94C8C1CBE7F0B21C545C3 /* MultiAppender.swift */; };
 		E74EB823114D976C3F067CFC21D1A802 /* CircularBuffer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B973ED94395269B60D14ECD812654662 /* CircularBuffer.swift */; };
 		E7E04094163DD8A388266E27B8DC3E53 /* MachUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6886BD9F0BA9799CC7310A2DBBDF79F9 /* MachUtil.swift */; };
-		E8849C179A366B6EECBA01A0A1A07CD4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */; };
 		E9EB9D5CB299F676E923DC675591FCAD /* RTMPSharedObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8D80C8B92057114FA6653D6F72C8A9 /* RTMPSharedObject.swift */; };
 		EB68C7527A55884F7C36AC64422B8103 /* FLVSoundType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D27304D8375FBFA257BC91822CE157 /* FLVSoundType.swift */; };
-		FBC304B730B54AEE2BB7E91470BDE6E4 /* Pods-NeumorPhoneTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BEE5C21C92473334DB6FD0E062C96ED4 /* Pods-NeumorPhoneTests-dummy.m */; };
 		FCFC48948D6BE6C1BAF88069A28FCD5D /* VideoGravityUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CABCB89DA7BF4D01B598D0BB7B137A /* VideoGravityUtil.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		1D6098BAA87835251691EEC068D7E51B /* PBXContainerItemProxy */ = {
+		0A4DA035FF26C761051E1B420EFA1295 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6F344345E40359F81D9113F43FA59A1D;
-			remoteInfo = "Pods-NeumorPhone";
-		};
-		3010E14646C7F0E25369F708B2B913EE /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = B741752CADA2D523808EEA4844EE6697;
-			remoteInfo = Logboard;
+			remoteGlobalIDString = 3D19B054558188CDA7BA163F3BEBCE91;
+			remoteInfo = HaishinKit;
 		};
 		5953B19B542C6BA97E7CF16ACD218C86 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -152,7 +145,28 @@
 			remoteGlobalIDString = B741752CADA2D523808EEA4844EE6697;
 			remoteInfo = Logboard;
 		};
-		65FFA95017F1958A5199780BB719B5E5 /* PBXContainerItemProxy */ = {
+		6B71B002C61311829B900CC104C80763 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B741752CADA2D523808EEA4844EE6697;
+			remoteInfo = Logboard;
+		};
+		8533D75596C8B52029A028C89E44DA80 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B741752CADA2D523808EEA4844EE6697;
+			remoteInfo = Logboard;
+		};
+		CEB39FB68176CD6584756FD945150D8D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6F344345E40359F81D9113F43FA59A1D;
+			remoteInfo = "Pods-NeumorPhone";
+		};
+		E19FC56C9452DBA279C0C9C0FA711ABF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -164,60 +178,55 @@
 /* Begin PBXFileReference section */
 		015D62E904F94C8C1CBE7F0B21C545C3 /* MultiAppender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultiAppender.swift; path = Sources/Logboard/MultiAppender.swift; sourceTree = "<group>"; };
 		0163CA682C73B04CE2EE00EEB6498B24 /* FLVAudioCodec.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVAudioCodec.swift; path = Sources/FLV/FLVAudioCodec.swift; sourceTree = "<group>"; };
-		017A56860C63891D7608718049F4E929 /* Pods-NeumorPhone-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NeumorPhone-acknowledgements.markdown"; sourceTree = "<group>"; };
 		04B7524C85EDF301D27E8AB634B347AA /* AVRecorder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AVRecorder.swift; path = Sources/Media/AVRecorder.swift; sourceTree = "<group>"; };
+		059CD086769CC1989FCF96A9EE491F97 /* Pods-NeumorPhone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhone.release.xcconfig"; sourceTree = "<group>"; };
 		06D7ED47CC5338F70A6411415A46C1F9 /* FLVAVCPacketType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVAVCPacketType.swift; path = Sources/FLV/FLVAVCPacketType.swift; sourceTree = "<group>"; };
 		07F3F791E2303DCF81BEC9031839F416 /* M3U.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = M3U.swift; path = Sources/HTTP/M3U.swift; sourceTree = "<group>"; };
 		0818E2E0C080F56F32BC5AB51ABB5747 /* VTCompressionSessionPropertyKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VTCompressionSessionPropertyKey.swift; path = Sources/Codec/VTCompressionSessionPropertyKey.swift; sourceTree = "<group>"; };
-		0D0122FEE23A10F25663BD784889C8E3 /* Pods-NeumorPhoneTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NeumorPhoneTests-frameworks.sh"; sourceTree = "<group>"; };
-		0DDD396975B46958E0C35D6B0518014C /* Pods-NeumorPhoneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhoneTests.release.xcconfig"; sourceTree = "<group>"; };
 		0E9E61D66C2CF6EC943143C2EC9E6583 /* AMF0Serializer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AMF0Serializer.swift; path = Sources/RTMP/AMF0Serializer.swift; sourceTree = "<group>"; };
 		1046CA1A824F14B39357C3838713D59E /* FLVTagType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVTagType.swift; path = Sources/FLV/FLVTagType.swift; sourceTree = "<group>"; };
 		108572654A4FFC5E9A6D910A08389F45 /* Setting.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Setting.swift; path = Sources/Util/Setting.swift; sourceTree = "<group>"; };
 		10CEDC9024A4414716678C0771578001 /* IOComponent.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IOComponent.swift; path = Sources/Media/IOComponent.swift; sourceTree = "<group>"; };
 		13CABCB89DA7BF4D01B598D0BB7B137A /* VideoGravityUtil.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VideoGravityUtil.swift; path = Sources/Util/VideoGravityUtil.swift; sourceTree = "<group>"; };
 		140AC71CA3D0085B9B8C3384E515CEBC /* AudioConverter.Destination.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AudioConverter.Destination.swift; path = Sources/Codec/AudioConverter.Destination.swift; sourceTree = "<group>"; };
+		15BB6EA3A387D0E5CB13BF278CFB093D /* Pods-NeumorPhoneTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NeumorPhoneTests.modulemap"; sourceTree = "<group>"; };
 		17544132939778A33F0D21E9EC6CCEC2 /* HTTPResponse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HTTPResponse.swift; path = Sources/HTTP/HTTPResponse.swift; sourceTree = "<group>"; };
 		17738349761B82F627622DC9EDD391CE /* FLVFrameType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVFrameType.swift; path = Sources/FLV/FLVFrameType.swift; sourceTree = "<group>"; };
+		18D565D9A9C77B5A1867E484CDD6745C /* Pods-NeumorPhoneTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NeumorPhoneTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		199810EB229880051736751ABBE35D22 /* FLVVideoCodec.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVVideoCodec.swift; path = Sources/FLV/FLVVideoCodec.swift; sourceTree = "<group>"; };
 		1AA992F402EA5D44CB1B9080ED2D8021 /* ExpressibleByIntegerLiteral+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ExpressibleByIntegerLiteral+Extension.swift"; path = "Sources/Extension/ExpressibleByIntegerLiteral+Extension.swift"; sourceTree = "<group>"; };
-		1E0A6B4B2B933A795DF780EFDF03AE81 /* Pods-NeumorPhone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhone.release.xcconfig"; sourceTree = "<group>"; };
 		238464E91DFE0B36EB67AC94DC70F25C /* SocketAppender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SocketAppender.swift; path = Sources/Logboard/SocketAppender.swift; sourceTree = "<group>"; };
 		24E1443B9BABFB9D4D3CF5F4114FF3E8 /* Mirror+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Mirror+Extension.swift"; path = "Sources/Extension/Mirror+Extension.swift"; sourceTree = "<group>"; };
 		25BFFBE6D90519C6BE2EBFA4D388AED0 /* HaishinKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HaishinKit.framework; path = HaishinKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		262B76FDA789D4B3633F51102BB3B33A /* CMFormatDescription+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CMFormatDescription+Extension.swift"; path = "Sources/Extension/CMFormatDescription+Extension.swift"; sourceTree = "<group>"; };
 		262F30C205A74B220D0DDBEA4CA88C91 /* NetStream+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NetStream+Extension.swift"; path = "Platforms/iOS/NetStream+Extension.swift"; sourceTree = "<group>"; };
 		2633D185120B13CD1879A5B10A30D131 /* SoundSpliter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SoundSpliter.swift; path = Sources/Media/SoundSpliter.swift; sourceTree = "<group>"; };
+		2774ADD729F605DE0C527D2CC818F1F5 /* Pods-NeumorPhoneTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NeumorPhoneTests-dummy.m"; sourceTree = "<group>"; };
 		2786435E916E8BAB7388A6170797068B /* H264Encoder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = H264Encoder.swift; path = Sources/Codec/H264Encoder.swift; sourceTree = "<group>"; };
 		2A7A29A4D161F2A046D54B27F4DF4F2F /* Logboard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Logboard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B277E24B61396DF60B0311F30A372F2 /* HaishinKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HaishinKit.xcconfig; sourceTree = "<group>"; };
-		2D6380C1B196C798145DA9A5393E5DD6 /* Pods-NeumorPhoneTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhoneTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		2BF8733D15F6D5989BAB560898A6C616 /* Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		312904BB1ACE4B3F313AE5E655DAC68E /* Pods-NeumorPhoneTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhoneTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		31E74949501BAB9402CEF7E90EEC112B /* FLVSoundSize.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVSoundSize.swift; path = Sources/FLV/FLVSoundSize.swift; sourceTree = "<group>"; };
 		33696741095143B5383E0B9A661A47DC /* VTSessionPropertyKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VTSessionPropertyKey.swift; path = Sources/Codec/VTSessionPropertyKey.swift; sourceTree = "<group>"; };
 		35D27304D8375FBFA257BC91822CE157 /* FLVSoundType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVSoundType.swift; path = Sources/FLV/FLVSoundType.swift; sourceTree = "<group>"; };
 		3751BE176BEF3F507ACE3FCC52188BBE /* DataConvertible.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DataConvertible.swift; path = Sources/Util/DataConvertible.swift; sourceTree = "<group>"; };
 		37C4528D75D79F8BDD20D24756F8A8AC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		37D099B56E7FC05074E9B0B0FE2BF9F8 /* Logboard.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Logboard.xcconfig; sourceTree = "<group>"; };
-		3A495D0E4EDAB2D89C8E41D32650A0EF /* Pods-NeumorPhone-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NeumorPhone-umbrella.h"; sourceTree = "<group>"; };
 		3A5C59F8035D2714DF8E729B1E2785DE /* PacketizedElementaryStream.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PacketizedElementaryStream.swift; path = Sources/ISO/PacketizedElementaryStream.swift; sourceTree = "<group>"; };
-		3AD39B9F945A867BE2B75C7DC0052149 /* Pods-NeumorPhoneTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NeumorPhoneTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		3B50CB77C437DCB560150141F331F92A /* Pods-NeumorPhone-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NeumorPhone-dummy.m"; sourceTree = "<group>"; };
-		3B551EC0D2981B41C80A1CD2B2D114D0 /* Pods-NeumorPhone-NeumorPhoneUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhone-NeumorPhoneUITests-Info.plist"; sourceTree = "<group>"; };
 		3D840049EEE2C435C4ADEC7EAE162503 /* Pods_NeumorPhoneTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NeumorPhoneTests.framework; path = "Pods-NeumorPhoneTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EA099BC6B123A0673C96012573FE746 /* Pods-NeumorPhone-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NeumorPhone-dummy.m"; sourceTree = "<group>"; };
 		3FD495484737A439C79D9A347F111A33 /* RTMPHandshake.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPHandshake.swift; path = Sources/RTMP/RTMPHandshake.swift; sourceTree = "<group>"; };
 		42C5A75918FA35686C8902952DEC6A07 /* Logboard-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Logboard-Info.plist"; sourceTree = "<group>"; };
 		459BD915893DEDE155479362701F7546 /* MP4Sampler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MP4Sampler.swift; path = Sources/ISO/MP4Sampler.swift; sourceTree = "<group>"; };
-		460513AF43E7A24D91D4D5D21EE96384 /* Pods-NeumorPhone.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NeumorPhone.modulemap"; sourceTree = "<group>"; };
-		4780E2351F20E6DF87284833194D0007 /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		47B471BC59B322ED1E571D592E43335B /* NetService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetService.swift; path = Sources/Net/NetService.swift; sourceTree = "<group>"; };
+		49CCE13ADA27886A77D96FE606253125 /* Pods-NeumorPhone-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NeumorPhone-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4C18E0641669018E72C1B62CA3A0938F /* Pods_NeumorPhone_NeumorPhoneUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NeumorPhone_NeumorPhoneUITests.framework; path = "Pods-NeumorPhone-NeumorPhoneUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C74D2DD6DD14067148AD112EB98FE53 /* RTMPNWSocket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPNWSocket.swift; path = Sources/RTMP/RTMPNWSocket.swift; sourceTree = "<group>"; };
 		4D6E494E41FAF82B9C98D836D77EDB21 /* EventDispatcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EventDispatcher.swift; path = Sources/Util/EventDispatcher.swift; sourceTree = "<group>"; };
 		4E6F5B74ABAFBDFD9D390616F869FE28 /* CMBlockBuffer+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CMBlockBuffer+Extension.swift"; path = "Sources/Extension/CMBlockBuffer+Extension.swift"; sourceTree = "<group>"; };
 		4F4C5C94D886A658B6E5E18F5968BEBE /* AudioConverter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AudioConverter.swift; path = Sources/Codec/AudioConverter.swift; sourceTree = "<group>"; };
 		4FA3B864E6F882467D8C8B788D8A5BE9 /* RTMPConnection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPConnection.swift; path = Sources/RTMP/RTMPConnection.swift; sourceTree = "<group>"; };
-		50E1AB2920A71B86012E393C542CFCD2 /* Pods-NeumorPhone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhone.debug.xcconfig"; sourceTree = "<group>"; };
-		50E3C8243097D680F3B0429179729F43 /* Pods-NeumorPhoneTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhoneTests-Info.plist"; sourceTree = "<group>"; };
 		51E884E49231C5D77F1450AB63EC8CF2 /* Logboard-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Logboard-umbrella.h"; sourceTree = "<group>"; };
 		520A70E962AD1FB789F3A17C98B29820 /* HaishinKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "HaishinKit-Info.plist"; sourceTree = "<group>"; };
 		5365EA1A789FE2E6213C19468801B2C2 /* MIME.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MIME.swift; path = Sources/Net/MIME.swift; sourceTree = "<group>"; };
@@ -229,58 +238,64 @@
 		5A4208A4CDBD06BD4B44AF491B96FFE2 /* Pods_NeumorPhone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NeumorPhone.framework; path = "Pods-NeumorPhone.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6753D0B577FEC1E07BF3F033F0D70E8A /* DisplayLinkedQueue.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DisplayLinkedQueue.swift; path = Sources/Util/DisplayLinkedQueue.swift; sourceTree = "<group>"; };
 		67E9CC0355CEFC3B587B4115451886FE /* ProgramSpecific.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgramSpecific.swift; path = Sources/ISO/ProgramSpecific.swift; sourceTree = "<group>"; };
+		683179B8C4302125A9AD50217E8A35A4 /* Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		6848FC1DDD143BFB6F9DB1305D8C8411 /* HaishinKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HaishinKit-umbrella.h"; sourceTree = "<group>"; };
 		6886BD9F0BA9799CC7310A2DBBDF79F9 /* MachUtil.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MachUtil.swift; path = Sources/Util/MachUtil.swift; sourceTree = "<group>"; };
-		6BA4B0783DA42AAB4AB606A18E174B8C /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h"; sourceTree = "<group>"; };
+		699B35999CD112D7BC7E01610A6DBEC3 /* Pods-NeumorPhone-NeumorPhoneUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhone-NeumorPhoneUITests-Info.plist"; sourceTree = "<group>"; };
 		6DC7F1FA6ED0E8B8A1024A5A51BE0731 /* NetSocket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetSocket.swift; path = Sources/Net/NetSocket.swift; sourceTree = "<group>"; };
 		6E7D0D2B28E7B33B31A7A8A8033F2EE7 /* Logboard-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Logboard-prefix.pch"; sourceTree = "<group>"; };
 		7045080AB726F3D3321CDBFBF40CE4B0 /* HaishinKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HaishinKit.h; path = Platforms/iOS/HaishinKit.h; sourceTree = "<group>"; };
 		70A726E8B00480A5429346705F7D8F98 /* AudioIOComponent.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AudioIOComponent.swift; path = Sources/Media/AudioIOComponent.swift; sourceTree = "<group>"; };
 		73031CCC249992200DB9AE9B07BA77D7 /* TSWriter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TSWriter.swift; path = Sources/ISO/TSWriter.swift; sourceTree = "<group>"; };
+		731EE1756C80D5BBAFEE1C2D46E9715C /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		7325AA49EC705BDD23B9A6F35C58A5CB /* DeviceUtil+Extenstion.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DeviceUtil+Extenstion.swift"; path = "Platforms/iOS/DeviceUtil+Extenstion.swift"; sourceTree = "<group>"; };
 		7390BD39B1D81B860BC960C611C55F65 /* RTMPObjectEncoding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPObjectEncoding.swift; path = Sources/RTMP/RTMPObjectEncoding.swift; sourceTree = "<group>"; };
 		74A79DFE23CF8ADCBB7EA80D56C108BB /* ASClass.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ASClass.swift; path = Sources/RTMP/ASClass.swift; sourceTree = "<group>"; };
 		74D38D86422ED9BF4888816654BF9C1E /* DeviceUtil.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DeviceUtil.swift; path = Sources/Util/DeviceUtil.swift; sourceTree = "<group>"; };
 		75C91C1CE456FB670CBD0CEF7C80BF71 /* HTTPRequest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HTTPRequest.swift; path = Sources/HTTP/HTTPRequest.swift; sourceTree = "<group>"; };
+		76430EF2F238866C9368453CB7683E79 /* Pods-NeumorPhone-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhone-Info.plist"; sourceTree = "<group>"; };
 		7A16CF76E02D47AF95E1133F13A074D1 /* SoundTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SoundTransform.swift; path = Sources/Media/SoundTransform.swift; sourceTree = "<group>"; };
+		7A34A07DFE5BFCB1DAE1DF7C5452A288 /* Pods-NeumorPhoneTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhoneTests-Info.plist"; sourceTree = "<group>"; };
 		7CF3205610100D6167FF687E9B4C44B5 /* MTHKView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MTHKView.swift; path = Platforms/iOS/MTHKView.swift; sourceTree = "<group>"; };
 		7E101FDACD5D8AC05BA1DCAB7B696AF7 /* RTMPStreamDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPStreamDelegate.swift; path = Sources/RTMP/RTMPStreamDelegate.swift; sourceTree = "<group>"; };
 		7E3BCB7865F3C1E9A129068967370461 /* MP4Reader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MP4Reader.swift; path = Sources/ISO/MP4Reader.swift; sourceTree = "<group>"; };
 		818B05335B34C4BF9B13751118DB0A32 /* AMF3Serializer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AMF3Serializer.swift; path = Sources/RTMP/AMF3Serializer.swift; sourceTree = "<group>"; };
+		8265AE56E520958A49381EB868995C5E /* Pods-NeumorPhoneTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NeumorPhoneTests-umbrella.h"; sourceTree = "<group>"; };
+		850EB8DD26513E15AAA88C8FAF19DE34 /* Pods-NeumorPhone.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NeumorPhone.modulemap"; sourceTree = "<group>"; };
+		872B2ED960BCFFF1385373C6F79C9748 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig"; sourceTree = "<group>"; };
 		8809CB4E1D8C6295F6FB726150C59CA8 /* LogboardAppender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LogboardAppender.swift; path = Sources/Logboard/LogboardAppender.swift; sourceTree = "<group>"; };
 		8AAD91575204F6B9AFE698B0C1D85170 /* HTTPService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HTTPService.swift; path = Sources/HTTP/HTTPService.swift; sourceTree = "<group>"; };
+		8ADA3B2908073A5815386AA576D2D6FB /* Pods-NeumorPhone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhone.debug.xcconfig"; sourceTree = "<group>"; };
 		8CCD379E28EB26CAF4E1A033B2ABBFF5 /* ScreenCaptureSession.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScreenCaptureSession.swift; path = Platforms/iOS/ScreenCaptureSession.swift; sourceTree = "<group>"; };
 		90EA34EBFC6BFAF0128849321A4F2A53 /* Logboard.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Logboard.modulemap; sourceTree = "<group>"; };
-		92E66A9008D9C23BA1592CBC5886E6F4 /* Pods-NeumorPhoneTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NeumorPhoneTests-umbrella.h"; sourceTree = "<group>"; };
+		93323ED57B7CDFFCD21C20B4A7ACCA21 /* Pods-NeumorPhone-NeumorPhoneUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NeumorPhone-NeumorPhoneUITests.modulemap"; sourceTree = "<group>"; };
 		94F40E743D177C504F724A31D68E61A5 /* FLVAACPacket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVAACPacket.swift; path = Sources/FLV/FLVAACPacket.swift; sourceTree = "<group>"; };
+		96A56C25DA86425E0782C5CE1A555F9C /* Pods-NeumorPhone-NeumorPhoneUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NeumorPhone-NeumorPhoneUITests-frameworks.sh"; sourceTree = "<group>"; };
 		96B80B14920E49F0C6D66A57855064F4 /* Logboard-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Logboard-dummy.m"; sourceTree = "<group>"; };
-		970CF837702B1EAF4EB49A5E6071B9A9 /* Pods-NeumorPhoneTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NeumorPhoneTests.modulemap"; sourceTree = "<group>"; };
+		96BCB2E27E520F7427E6A8DAF763CAA0 /* Pods-NeumorPhoneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhoneTests.debug.xcconfig"; sourceTree = "<group>"; };
+		96D2A81EB55BA291976D6A2CC343CF3E /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h"; sourceTree = "<group>"; };
 		97FE0DE2A9FD4DB1553766C902333B8A /* VideoIOComponent+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "VideoIOComponent+Extension.swift"; path = "Platforms/iOS/VideoIOComponent+Extension.swift"; sourceTree = "<group>"; };
 		9851B5B672991CACDA5D8B9B9ABFCD03 /* H264Decoder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = H264Decoder.swift; path = Sources/Codec/H264Decoder.swift; sourceTree = "<group>"; };
-		998CEF82BF9439C70FB99F96AA846FF9 /* Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		99CB430EB5BC67D22DC44F8F0E4135AD /* Pods-NeumorPhoneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhoneTests.debug.xcconfig"; sourceTree = "<group>"; };
 		9AAF0D164BF3D32005E3343E2F558E66 /* NetClient.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetClient.swift; path = Sources/Net/NetClient.swift; sourceTree = "<group>"; };
 		9B253175C940722AFCC57E324DD45C84 /* AudioEffect.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AudioEffect.swift; path = Sources/Media/AudioEffect.swift; sourceTree = "<group>"; };
 		9B926A673EC1AAC3AD3C9F361F98F814 /* Logboard.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Logboard.swift; path = Sources/Logboard/Logboard.swift; sourceTree = "<group>"; };
 		9D829B984D3B2C99ADCA187820A50D42 /* HKView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HKView.swift; path = Platforms/iOS/HKView.swift; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9EFB17B418CD6D18DDE5C7653B3D1D8D /* Pods-NeumorPhone-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NeumorPhone-frameworks.sh"; sourceTree = "<group>"; };
 		A0A3C6BB76D030E21BB71198CFBEC1A7 /* RTMPSocket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPSocket.swift; path = Sources/RTMP/RTMPSocket.swift; sourceTree = "<group>"; };
 		A18C95110EDA9A9515EF1D9482FF3A86 /* Data+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Data+Extension.swift"; path = "Sources/Extension/Data+Extension.swift"; sourceTree = "<group>"; };
-		A2F6C12D7D3A94F7F1556AFE05BCCD81 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig"; sourceTree = "<group>"; };
 		A3F510A217FB7E693B8DDC7711973768 /* HaishinKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HaishinKit-prefix.pch"; sourceTree = "<group>"; };
 		A433E790200BD7FC2A7B4530CD94B7DD /* Constants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Constants.swift; path = Sources/Util/Constants.swift; sourceTree = "<group>"; };
 		A48F9C622B96D96953372D091558826E /* TimerDriver.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TimerDriver.swift; path = Sources/Util/TimerDriver.swift; sourceTree = "<group>"; };
 		A57ACCA0CF31DBF9A1C0D04A16717855 /* HaishinKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HaishinKit-dummy.m"; sourceTree = "<group>"; };
 		A60785B707626B7970B9CF00109564E0 /* NullAppender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NullAppender.swift; path = Sources/Logboard/NullAppender.swift; sourceTree = "<group>"; };
 		A8BE60F63C55C6179C6C21BFC9306C21 /* RTMPChunk.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPChunk.swift; path = Sources/RTMP/RTMPChunk.swift; sourceTree = "<group>"; };
-		ABC17E0D056ACC393F7876878CD2B032 /* Pods-NeumorPhone-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhone-Info.plist"; sourceTree = "<group>"; };
 		ACCDE6DE4A15BB1BC8C84BE266D1B673 /* CMVideoFormatDescription+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CMVideoFormatDescription+Extension.swift"; path = "Sources/Extension/CMVideoFormatDescription+Extension.swift"; sourceTree = "<group>"; };
+		ADCFD7BB89873692D71FFA863A8DFCAD /* Pods-NeumorPhone-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NeumorPhone-umbrella.h"; sourceTree = "<group>"; };
 		B973ED94395269B60D14ECD812654662 /* CircularBuffer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CircularBuffer.swift; path = Sources/Util/CircularBuffer.swift; sourceTree = "<group>"; };
 		BBF3C907BB548DD1552305E79C7836C3 /* Logboard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Logboard.framework; path = Logboard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC1196407B5A8BC7911D97604A46E107 /* ConsoleAppender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConsoleAppender.swift; path = Sources/Logboard/ConsoleAppender.swift; sourceTree = "<group>"; };
-		BEE5C21C92473334DB6FD0E062C96ED4 /* Pods-NeumorPhoneTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NeumorPhoneTests-dummy.m"; sourceTree = "<group>"; };
 		BF3CFAEBB17D4E4B4905C3640C9D136B /* NetStreamRenderer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetStreamRenderer.swift; path = Sources/Net/NetStreamRenderer.swift; sourceTree = "<group>"; };
-		C1096C0A7C637FBF7344BD4B2C9614BA /* Pods-NeumorPhone-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhone-acknowledgements.plist"; sourceTree = "<group>"; };
 		C1E6A6EA118BC86853B2B1996EF45B96 /* Logboard.Data.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Logboard.Data.swift; path = Sources/Logboard/Logboard.Data.swift; sourceTree = "<group>"; };
 		C27694167227B071F323EA909E7008A9 /* CMSampleBuffer+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CMSampleBuffer+Extension.swift"; path = "Sources/Extension/CMSampleBuffer+Extension.swift"; sourceTree = "<group>"; };
 		C2C15340964D6CE8ADE087C8B1D2B240 /* MD5.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MD5.swift; path = Sources/Util/MD5.swift; sourceTree = "<group>"; };
@@ -296,11 +311,12 @@
 		D75098B8CCD2E51A18BAC9DBBA06E9E5 /* FLVReader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FLVReader.swift; path = Sources/FLV/FLVReader.swift; sourceTree = "<group>"; };
 		DD87E5A5ECF9AEBBFD52300DDD168AF1 /* RTMPStream.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPStream.swift; path = Sources/RTMP/RTMPStream.swift; sourceTree = "<group>"; };
 		E124235DFE2B69BD7FE7987F0990A1F2 /* HaishinKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HaishinKit.modulemap; sourceTree = "<group>"; };
-		E2770807BF3F171E1770DF9EEFF41A86 /* Pods-NeumorPhone-NeumorPhoneUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NeumorPhone-NeumorPhoneUITests.modulemap"; sourceTree = "<group>"; };
 		E32AABDC673EC55729BE6776A013D417 /* NetStream.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetStream.swift; path = Sources/Net/NetStream.swift; sourceTree = "<group>"; };
 		E504EB182128A4B40DE3199268251820 /* RTMPSocketCompatible.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPSocketCompatible.swift; path = Sources/RTMP/RTMPSocketCompatible.swift; sourceTree = "<group>"; };
-		E7FD7D31AB0CE97A94ADA3F46F90ACA9 /* Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E6C21B79DCA09EC45323AE101B909B39 /* Pods-NeumorPhoneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NeumorPhoneTests.release.xcconfig"; sourceTree = "<group>"; };
+		E7C7C282F8AFC63CC95332495C7D6DA2 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NeumorPhone-NeumorPhoneUITests-dummy.m"; sourceTree = "<group>"; };
 		E927A296F356EDD8C3EA39E02306219E /* Logboard.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Logboard.h; path = Platforms/iOS/Logboard.h; sourceTree = "<group>"; };
+		E99833581382BF6E1FA49A070B4DEFF3 /* Pods-NeumorPhone-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NeumorPhone-acknowledgements.plist"; sourceTree = "<group>"; };
 		EABA309D5292F50F989D5A4F42E0AA26 /* HTTPStream.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HTTPStream.swift; path = Sources/HTTP/HTTPStream.swift; sourceTree = "<group>"; };
 		EC203FB9BBBB3DC0CD447A49EA6193DD /* URL+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URL+Extension.swift"; path = "Sources/Extension/URL+Extension.swift"; sourceTree = "<group>"; };
 		EC4C2B757ADAD569752776FB2CD41DA0 /* RTMPMuxer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPMuxer.swift; path = Sources/RTMP/RTMPMuxer.swift; sourceTree = "<group>"; };
@@ -309,34 +325,25 @@
 		F30203A048808BA6EDADAE24C619DD80 /* GLHKView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GLHKView.swift; path = Platforms/iOS/GLHKView.swift; sourceTree = "<group>"; };
 		F40045D475239A2CBCA22E01D555410A /* H264+AVC.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "H264+AVC.swift"; path = "Sources/ISO/H264+AVC.swift"; sourceTree = "<group>"; };
 		F7063E009833D41499444C84D6E3932B /* CMAudioFormatDescription+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CMAudioFormatDescription+Extension.swift"; path = "Sources/Extension/CMAudioFormatDescription+Extension.swift"; sourceTree = "<group>"; };
-		F8A169F0A8F0835A0142A95DBF526419 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NeumorPhone-NeumorPhoneUITests-dummy.m"; sourceTree = "<group>"; };
 		FC09D26B1C50BBEE8677ABB4C9197CF0 /* RTMPMessage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RTMPMessage.swift; path = Sources/RTMP/RTMPMessage.swift; sourceTree = "<group>"; };
 		FE3A5CA9DB334F3923C443EF1AF6D353 /* VideoEffect.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VideoEffect.swift; path = Sources/Media/VideoEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		2E1DEEEC9FBFE857BAD84465E122B91E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E62F3A25C732CAF8A70BC87BE557C02 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		3AA6CB14D157A1B5DF3301F810510A3F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				3F9B5F5E83D18978EA3935DF3CA3C1E0 /* Foundation.framework in Frameworks */,
 				3F30F82A47B930DA3F83E3FBA71D07C4 /* Logboard.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9189788A1843DF6936B505F31D084411 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				C7058248A38004A2BB8849BD72587301 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		96B16A40DEF557AAD4825FEDF811274F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				57EF27F40F3253D2EADE784159BF3AA2 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -348,11 +355,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DA8A7C2E21C7FF9B62896650D39CB84A /* Frameworks */ = {
+		E57E08E4033B607B465D9399F15351BB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8849C179A366B6EECBA01A0A1A07CD4 /* Foundation.framework in Frameworks */,
+				C613D395CC87120DA6DF99A22BD7AC6A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC492B0CD9892FE28E6BDECDA950F779 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				56085AB7C7D22E37A0137B5C35304DDB /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -397,47 +412,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		3A554C65B54DB2CF706BDAB42FBBDF85 /* Pods-NeumorPhoneTests */ = {
+		3BB480A58809A7D6AAA9ABC71CE0616C /* Pods-NeumorPhone-NeumorPhoneUITests */ = {
 			isa = PBXGroup;
 			children = (
-				970CF837702B1EAF4EB49A5E6071B9A9 /* Pods-NeumorPhoneTests.modulemap */,
-				3AD39B9F945A867BE2B75C7DC0052149 /* Pods-NeumorPhoneTests-acknowledgements.markdown */,
-				2D6380C1B196C798145DA9A5393E5DD6 /* Pods-NeumorPhoneTests-acknowledgements.plist */,
-				BEE5C21C92473334DB6FD0E062C96ED4 /* Pods-NeumorPhoneTests-dummy.m */,
-				0D0122FEE23A10F25663BD784889C8E3 /* Pods-NeumorPhoneTests-frameworks.sh */,
-				50E3C8243097D680F3B0429179729F43 /* Pods-NeumorPhoneTests-Info.plist */,
-				92E66A9008D9C23BA1592CBC5886E6F4 /* Pods-NeumorPhoneTests-umbrella.h */,
-				99CB430EB5BC67D22DC44F8F0E4135AD /* Pods-NeumorPhoneTests.debug.xcconfig */,
-				0DDD396975B46958E0C35D6B0518014C /* Pods-NeumorPhoneTests.release.xcconfig */,
+				93323ED57B7CDFFCD21C20B4A7ACCA21 /* Pods-NeumorPhone-NeumorPhoneUITests.modulemap */,
+				2BF8733D15F6D5989BAB560898A6C616 /* Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.markdown */,
+				683179B8C4302125A9AD50217E8A35A4 /* Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.plist */,
+				E7C7C282F8AFC63CC95332495C7D6DA2 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m */,
+				96A56C25DA86425E0782C5CE1A555F9C /* Pods-NeumorPhone-NeumorPhoneUITests-frameworks.sh */,
+				699B35999CD112D7BC7E01610A6DBEC3 /* Pods-NeumorPhone-NeumorPhoneUITests-Info.plist */,
+				96D2A81EB55BA291976D6A2CC343CF3E /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h */,
+				731EE1756C80D5BBAFEE1C2D46E9715C /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */,
+				872B2ED960BCFFF1385373C6F79C9748 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */,
 			);
-			name = "Pods-NeumorPhoneTests";
-			path = "Target Support Files/Pods-NeumorPhoneTests";
-			sourceTree = "<group>";
-		};
-		41AD22AC28038D61E2BFD161F5B30510 /* Pods-NeumorPhone */ = {
-			isa = PBXGroup;
-			children = (
-				460513AF43E7A24D91D4D5D21EE96384 /* Pods-NeumorPhone.modulemap */,
-				017A56860C63891D7608718049F4E929 /* Pods-NeumorPhone-acknowledgements.markdown */,
-				C1096C0A7C637FBF7344BD4B2C9614BA /* Pods-NeumorPhone-acknowledgements.plist */,
-				3B50CB77C437DCB560150141F331F92A /* Pods-NeumorPhone-dummy.m */,
-				ABC17E0D056ACC393F7876878CD2B032 /* Pods-NeumorPhone-Info.plist */,
-				3A495D0E4EDAB2D89C8E41D32650A0EF /* Pods-NeumorPhone-umbrella.h */,
-				50E1AB2920A71B86012E393C542CFCD2 /* Pods-NeumorPhone.debug.xcconfig */,
-				1E0A6B4B2B933A795DF780EFDF03AE81 /* Pods-NeumorPhone.release.xcconfig */,
-			);
-			name = "Pods-NeumorPhone";
-			path = "Target Support Files/Pods-NeumorPhone";
-			sourceTree = "<group>";
-		};
-		518A7E611B9653BFF095FB50F3856C8E /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				41AD22AC28038D61E2BFD161F5B30510 /* Pods-NeumorPhone */,
-				AD6800F84AB655260DE898CA9BC8C2A6 /* Pods-NeumorPhone-NeumorPhoneUITests */,
-				3A554C65B54DB2CF706BDAB42FBBDF85 /* Pods-NeumorPhoneTests */,
-			);
-			name = "Targets Support Files";
+			name = "Pods-NeumorPhone-NeumorPhoneUITests";
+			path = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests";
 			sourceTree = "<group>";
 		};
 		556EBB03A44BAE1DC843FFED59A302A8 /* Support Files */ = {
@@ -583,20 +572,30 @@
 			path = HaishinKit;
 			sourceTree = "<group>";
 		};
-		AD6800F84AB655260DE898CA9BC8C2A6 /* Pods-NeumorPhone-NeumorPhoneUITests */ = {
+		A80A9C7DEC7F4C68B351EF232A086E2B /* Pods-NeumorPhoneTests */ = {
 			isa = PBXGroup;
 			children = (
-				E2770807BF3F171E1770DF9EEFF41A86 /* Pods-NeumorPhone-NeumorPhoneUITests.modulemap */,
-				E7FD7D31AB0CE97A94ADA3F46F90ACA9 /* Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.markdown */,
-				998CEF82BF9439C70FB99F96AA846FF9 /* Pods-NeumorPhone-NeumorPhoneUITests-acknowledgements.plist */,
-				F8A169F0A8F0835A0142A95DBF526419 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m */,
-				3B551EC0D2981B41C80A1CD2B2D114D0 /* Pods-NeumorPhone-NeumorPhoneUITests-Info.plist */,
-				6BA4B0783DA42AAB4AB606A18E174B8C /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h */,
-				4780E2351F20E6DF87284833194D0007 /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */,
-				A2F6C12D7D3A94F7F1556AFE05BCCD81 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */,
+				15BB6EA3A387D0E5CB13BF278CFB093D /* Pods-NeumorPhoneTests.modulemap */,
+				18D565D9A9C77B5A1867E484CDD6745C /* Pods-NeumorPhoneTests-acknowledgements.markdown */,
+				312904BB1ACE4B3F313AE5E655DAC68E /* Pods-NeumorPhoneTests-acknowledgements.plist */,
+				2774ADD729F605DE0C527D2CC818F1F5 /* Pods-NeumorPhoneTests-dummy.m */,
+				7A34A07DFE5BFCB1DAE1DF7C5452A288 /* Pods-NeumorPhoneTests-Info.plist */,
+				8265AE56E520958A49381EB868995C5E /* Pods-NeumorPhoneTests-umbrella.h */,
+				96BCB2E27E520F7427E6A8DAF763CAA0 /* Pods-NeumorPhoneTests.debug.xcconfig */,
+				E6C21B79DCA09EC45323AE101B909B39 /* Pods-NeumorPhoneTests.release.xcconfig */,
 			);
-			name = "Pods-NeumorPhone-NeumorPhoneUITests";
-			path = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests";
+			name = "Pods-NeumorPhoneTests";
+			path = "Target Support Files/Pods-NeumorPhoneTests";
+			sourceTree = "<group>";
+		};
+		B33AEA247A35F29925DCF9EE61162696 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F888FF3F59974B55A3F643D4185E5D81 /* Pods-NeumorPhone */,
+				3BB480A58809A7D6AAA9ABC71CE0616C /* Pods-NeumorPhone-NeumorPhoneUITests */,
+				A80A9C7DEC7F4C68B351EF232A086E2B /* Pods-NeumorPhoneTests */,
+			);
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 		CF0E4F0C3668136EDBCCBA3DEFFD0446 /* iOS */ = {
@@ -614,27 +613,44 @@
 				393CC108E589CF9D0C151E212D0924A6 /* Frameworks */,
 				5AEFFFE9157231742A1377096CD1D9FE /* Pods */,
 				24B765B769A35B19D3E0849DF11EF6B1 /* Products */,
-				518A7E611B9653BFF095FB50F3856C8E /* Targets Support Files */,
+				B33AEA247A35F29925DCF9EE61162696 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		F888FF3F59974B55A3F643D4185E5D81 /* Pods-NeumorPhone */ = {
+			isa = PBXGroup;
+			children = (
+				850EB8DD26513E15AAA88C8FAF19DE34 /* Pods-NeumorPhone.modulemap */,
+				49CCE13ADA27886A77D96FE606253125 /* Pods-NeumorPhone-acknowledgements.markdown */,
+				E99833581382BF6E1FA49A070B4DEFF3 /* Pods-NeumorPhone-acknowledgements.plist */,
+				3EA099BC6B123A0673C96012573FE746 /* Pods-NeumorPhone-dummy.m */,
+				9EFB17B418CD6D18DDE5C7653B3D1D8D /* Pods-NeumorPhone-frameworks.sh */,
+				76430EF2F238866C9368453CB7683E79 /* Pods-NeumorPhone-Info.plist */,
+				ADCFD7BB89873692D71FFA863A8DFCAD /* Pods-NeumorPhone-umbrella.h */,
+				8ADA3B2908073A5815386AA576D2D6FB /* Pods-NeumorPhone.debug.xcconfig */,
+				059CD086769CC1989FCF96A9EE491F97 /* Pods-NeumorPhone.release.xcconfig */,
+			);
+			name = "Pods-NeumorPhone";
+			path = "Target Support Files/Pods-NeumorPhone";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		075B3860C6772D2B075864D3F7965FAD /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1DDBA1CA8FF8D723C0ABBADC7255B2BE /* Pods-NeumorPhoneTests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		265F22B17C9FEAD52DA7B51514087927 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				CD09921211C33DDF6AD2AF57229A0B1E /* Logboard-umbrella.h in Headers */,
 				D6AB746184ABBF7DA4F7D2FC315E0B16 /* Logboard.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		463E806B2E9DAFC83110A73ABB240422 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B39930A4FE47D75587B1733465D9E46 /* Pods-NeumorPhoneTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -647,19 +663,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8A0A319D28D6B681D4F1EC78D60C6A66 /* Headers */ = {
+		6654E69DFCC99C0C1D4F55878DD7889F /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B3AC9E2151A28A877379345CC24BB3A /* Pods-NeumorPhone-umbrella.h in Headers */,
+				07721D7ECCBF25CE39EC3EECE4F095FE /* Pods-NeumorPhone-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CF7118D046E903AEF159B9309BA766AE /* Headers */ = {
+		EC9D475C34529D517E38F5F806C374DF /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AFFD187B243428F4FDD43E544603E1F /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h in Headers */,
+				8C3B5D0B7CACF41ECB54C30609EDA7D0 /* Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -687,16 +703,18 @@
 		};
 		6F344345E40359F81D9113F43FA59A1D /* Pods-NeumorPhone */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B124ABFCCFBE1DBCD45C307E9D46A649 /* Build configuration list for PBXNativeTarget "Pods-NeumorPhone" */;
+			buildConfigurationList = 04112C620E644392C532EB4CD6212884 /* Build configuration list for PBXNativeTarget "Pods-NeumorPhone" */;
 			buildPhases = (
-				8A0A319D28D6B681D4F1EC78D60C6A66 /* Headers */,
-				194E82437B5DC659CC42FCE0C9090AAE /* Sources */,
-				96B16A40DEF557AAD4825FEDF811274F /* Frameworks */,
-				9B7CA664BB5A68987271F5EA5379799C /* Resources */,
+				6654E69DFCC99C0C1D4F55878DD7889F /* Headers */,
+				CADF200B64BC89C17AF7E46D60CD226D /* Sources */,
+				2E1DEEEC9FBFE857BAD84465E122B91E /* Frameworks */,
+				B066ABB23C465A1D3FE40542A1EB6E5D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				8CCD7998EDF15A33EBCAA25971C938A5 /* PBXTargetDependency */,
+				7851B033152C2AE25531BFEC3EC7B400 /* PBXTargetDependency */,
 			);
 			name = "Pods-NeumorPhone";
 			productName = "Pods-NeumorPhone";
@@ -705,16 +723,18 @@
 		};
 		7BF6C9434621F9330AD54B79A5310AF6 /* Pods-NeumorPhone-NeumorPhoneUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0177AEF7911D7678B586DFE8FC4ACA38 /* Build configuration list for PBXNativeTarget "Pods-NeumorPhone-NeumorPhoneUITests" */;
+			buildConfigurationList = 0D333EEF28C8396B3A5630D49A6DF94D /* Build configuration list for PBXNativeTarget "Pods-NeumorPhone-NeumorPhoneUITests" */;
 			buildPhases = (
-				CF7118D046E903AEF159B9309BA766AE /* Headers */,
-				C6F7C606D42DDE2234DFF8406045A0E9 /* Sources */,
-				DA8A7C2E21C7FF9B62896650D39CB84A /* Frameworks */,
-				640E3B7FC449AA3C8C6361D9C8B9EFDF /* Resources */,
+				EC9D475C34529D517E38F5F806C374DF /* Headers */,
+				6B57A0DC7F017402A71EC32D625B7CDE /* Sources */,
+				E57E08E4033B607B465D9399F15351BB /* Frameworks */,
+				961ADCE282A6A76C7CFB0191A7EF4042 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				236CD63C1F4701EF4E5C284B805AA380 /* PBXTargetDependency */,
+				832501BADA755768FC6A2F5600C38BFC /* PBXTargetDependency */,
 			);
 			name = "Pods-NeumorPhone-NeumorPhoneUITests";
 			productName = "Pods-NeumorPhone-NeumorPhoneUITests";
@@ -741,19 +761,17 @@
 		};
 		E7B5960A210DB36C274080F6E8D2EB01 /* Pods-NeumorPhoneTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 14312F35CDF0E6B4D9090CE975E388AF /* Build configuration list for PBXNativeTarget "Pods-NeumorPhoneTests" */;
+			buildConfigurationList = B4433A606DFCD3D317C292122163D362 /* Build configuration list for PBXNativeTarget "Pods-NeumorPhoneTests" */;
 			buildPhases = (
-				075B3860C6772D2B075864D3F7965FAD /* Headers */,
-				B139801B762A4A0077776354209565E1 /* Sources */,
-				9189788A1843DF6936B505F31D084411 /* Frameworks */,
-				297E90533624683F0DE8D18AB3AB89BC /* Resources */,
+				463E806B2E9DAFC83110A73ABB240422 /* Headers */,
+				271E2BFD3EAE19D319A044A47625451B /* Sources */,
+				EC492B0CD9892FE28E6BDECDA950F779 /* Frameworks */,
+				70AD5408225BD7C75DF0BA667A009EB0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				851712D54D5CAA94E59AEB30F6DDD09D /* PBXTargetDependency */,
-				BBEF17835162FF5DBBC04F82425B1744 /* PBXTargetDependency */,
-				220DDE16626A797D7B301C675635301A /* PBXTargetDependency */,
+				6C19FC54EBB47105C10AFBF943F0A3F2 /* PBXTargetDependency */,
 			);
 			name = "Pods-NeumorPhoneTests";
 			productName = "Pods-NeumorPhoneTests";
@@ -792,21 +810,21 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		297E90533624683F0DE8D18AB3AB89BC /* Resources */ = {
+		70AD5408225BD7C75DF0BA667A009EB0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		640E3B7FC449AA3C8C6361D9C8B9EFDF /* Resources */ = {
+		961ADCE282A6A76C7CFB0191A7EF4042 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9B7CA664BB5A68987271F5EA5379799C /* Resources */ = {
+		B066ABB23C465A1D3FE40542A1EB6E5D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -830,11 +848,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		194E82437B5DC659CC42FCE0C9090AAE /* Sources */ = {
+		271E2BFD3EAE19D319A044A47625451B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC918B18986E55304BA3CDFD04D14689 /* Pods-NeumorPhone-dummy.m in Sources */,
+				CF282FDFFA00DC888CB926EE5C480294 /* Pods-NeumorPhoneTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6B57A0DC7F017402A71EC32D625B7CDE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				801C8803ECF4C942F80B250398AC3AC5 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -853,19 +879,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B139801B762A4A0077776354209565E1 /* Sources */ = {
+		CADF200B64BC89C17AF7E46D60CD226D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FBC304B730B54AEE2BB7E91470BDE6E4 /* Pods-NeumorPhoneTests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		C6F7C606D42DDE2234DFF8406045A0E9 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				548C2946D9A3DE3BFA337EF57791D365 /* Pods-NeumorPhone-NeumorPhoneUITests-dummy.m in Sources */,
+				BB0F4A597209E81124BD90F88C3C995E /* Pods-NeumorPhone-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -982,23 +1000,35 @@
 			target = B741752CADA2D523808EEA4844EE6697 /* Logboard */;
 			targetProxy = 5953B19B542C6BA97E7CF16ACD218C86 /* PBXContainerItemProxy */;
 		};
-		220DDE16626A797D7B301C675635301A /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-NeumorPhone";
-			target = 6F344345E40359F81D9113F43FA59A1D /* Pods-NeumorPhone */;
-			targetProxy = 1D6098BAA87835251691EEC068D7E51B /* PBXContainerItemProxy */;
-		};
-		851712D54D5CAA94E59AEB30F6DDD09D /* PBXTargetDependency */ = {
+		236CD63C1F4701EF4E5C284B805AA380 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = HaishinKit;
 			target = 3D19B054558188CDA7BA163F3BEBCE91 /* HaishinKit */;
-			targetProxy = 65FFA95017F1958A5199780BB719B5E5 /* PBXContainerItemProxy */;
+			targetProxy = E19FC56C9452DBA279C0C9C0FA711ABF /* PBXContainerItemProxy */;
 		};
-		BBEF17835162FF5DBBC04F82425B1744 /* PBXTargetDependency */ = {
+		6C19FC54EBB47105C10AFBF943F0A3F2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-NeumorPhone";
+			target = 6F344345E40359F81D9113F43FA59A1D /* Pods-NeumorPhone */;
+			targetProxy = CEB39FB68176CD6584756FD945150D8D /* PBXContainerItemProxy */;
+		};
+		7851B033152C2AE25531BFEC3EC7B400 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Logboard;
 			target = B741752CADA2D523808EEA4844EE6697 /* Logboard */;
-			targetProxy = 3010E14646C7F0E25369F708B2B913EE /* PBXContainerItemProxy */;
+			targetProxy = 8533D75596C8B52029A028C89E44DA80 /* PBXContainerItemProxy */;
+		};
+		832501BADA755768FC6A2F5600C38BFC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Logboard;
+			target = B741752CADA2D523808EEA4844EE6697 /* Logboard */;
+			targetProxy = 6B71B002C61311829B900CC104C80763 /* PBXContainerItemProxy */;
+		};
+		8CCD7998EDF15A33EBCAA25971C938A5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = HaishinKit;
+			target = 3D19B054558188CDA7BA163F3BEBCE91 /* HaishinKit */;
+			targetProxy = 0A4DA035FF26C761051E1B420EFA1295 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -1038,9 +1068,107 @@
 			};
 			name = Debug;
 		};
-		0E80D901F16CB2DF373FBD1D82AABD1A /* Debug */ = {
+		257497152829C177993B5EC99C1D227A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 99CB430EB5BC67D22DC44F8F0E4135AD /* Pods-NeumorPhoneTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		3C43D2BAE0D60D9C410991667888DF8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8ADA3B2908073A5815386AA576D2D6FB /* Pods-NeumorPhone.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		58B948D7424D27138A3531B19481D74B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 96BCB2E27E520F7427E6A8DAF763CAA0 /* Pods-NeumorPhoneTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -1055,7 +1183,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1075,45 +1203,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		3C718734B6609EAFA3760D3EA9504D7D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0DDD396975B46958E0C35D6B0518014C /* Pods-NeumorPhoneTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		6B6F2C26965EE0210A3D9E910ECC8F77 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -1150,9 +1239,9 @@
 			};
 			name = Release;
 		};
-		7309FBB20C37319E8019591D58909A57 /* Release */ = {
+		80190F16D66AA509117D685B2E962AA2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1E0A6B4B2B933A795DF780EFDF03AE81 /* Pods-NeumorPhone.release.xcconfig */;
+			baseConfigurationReference = E6C21B79DCA09EC45323AE101B909B39 /* Pods-NeumorPhoneTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -1165,16 +1254,16 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -1223,9 +1312,9 @@
 			};
 			name = Debug;
 		};
-		8CD7C0BB8E824023903D4EBDB4AC6BC3 /* Debug */ = {
+		C09EC7075BF7E0D3472AEC4883FD848A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4780E2351F20E6DF87284833194D0007 /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */;
+			baseConfigurationReference = 872B2ED960BCFFF1385373C6F79C9748 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -1240,7 +1329,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1256,12 +1345,52 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
-		939F1A8F6BCEB7F9F64D9EEE50CAE014 /* Debug */ = {
+		DC5F555BF2307C13AFAC43240EEF5A89 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 059CD086769CC1989FCF96A9EE491F97 /* Pods-NeumorPhone.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		DD8F832993327D1DD8046C3CBCBD97CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1312,7 +1441,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -1324,143 +1453,6 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
-		};
-		D77D9A7B6E4EA1285482299DBE3E6115 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A2F6C12D7D3A94F7F1556AFE05BCCD81 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		E521EF57BE248CD06F64640BDB0A5479 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 50E1AB2920A71B86012E393C542CFCD2 /* Pods-NeumorPhone.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		ECB437504DF805BD96CAABF97400B526 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 5.0;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
 		};
 		FD70D8FBF6F5A3CE8A9CF7917D0DF9ED /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -1498,14 +1490,52 @@
 			};
 			name = Release;
 		};
+		FE408696B6BB659441542C664965BC60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 731EE1756C80D5BBAFEE1C2D46E9715C /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0177AEF7911D7678B586DFE8FC4ACA38 /* Build configuration list for PBXNativeTarget "Pods-NeumorPhone-NeumorPhoneUITests" */ = {
+		04112C620E644392C532EB4CD6212884 /* Build configuration list for PBXNativeTarget "Pods-NeumorPhone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8CD7C0BB8E824023903D4EBDB4AC6BC3 /* Debug */,
-				D77D9A7B6E4EA1285482299DBE3E6115 /* Release */,
+				3C43D2BAE0D60D9C410991667888DF8F /* Debug */,
+				DC5F555BF2307C13AFAC43240EEF5A89 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1519,11 +1549,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		14312F35CDF0E6B4D9090CE975E388AF /* Build configuration list for PBXNativeTarget "Pods-NeumorPhoneTests" */ = {
+		0D333EEF28C8396B3A5630D49A6DF94D /* Build configuration list for PBXNativeTarget "Pods-NeumorPhone-NeumorPhoneUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0E80D901F16CB2DF373FBD1D82AABD1A /* Debug */,
-				3C718734B6609EAFA3760D3EA9504D7D /* Release */,
+				FE408696B6BB659441542C664965BC60 /* Debug */,
+				C09EC7075BF7E0D3472AEC4883FD848A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1531,17 +1561,17 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				939F1A8F6BCEB7F9F64D9EEE50CAE014 /* Debug */,
-				ECB437504DF805BD96CAABF97400B526 /* Release */,
+				DD8F832993327D1DD8046C3CBCBD97CD /* Debug */,
+				257497152829C177993B5EC99C1D227A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B124ABFCCFBE1DBCD45C307E9D46A649 /* Build configuration list for PBXNativeTarget "Pods-NeumorPhone" */ = {
+		B4433A606DFCD3D317C292122163D362 /* Build configuration list for PBXNativeTarget "Pods-NeumorPhoneTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E521EF57BE248CD06F64640BDB0A5479 /* Debug */,
-				7309FBB20C37319E8019591D58909A57 /* Release */,
+				58B948D7424D27138A3531B19481D74B /* Debug */,
+				80190F16D66AA509117D685B2E962AA2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

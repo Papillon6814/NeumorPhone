@@ -194,6 +194,7 @@
 				412EB94723FD140E000FDAA3 /* Sources */,
 				412EB94823FD140E000FDAA3 /* Frameworks */,
 				412EB94923FD140E000FDAA3 /* Resources */,
+				B35C17D07BF25F6EDEE9C4CA /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -212,7 +213,6 @@
 				412EB96023FD1413000FDAA3 /* Sources */,
 				412EB96123FD1413000FDAA3 /* Frameworks */,
 				412EB96223FD1413000FDAA3 /* Resources */,
-				B802AA18AB95138DF4898E41 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -232,6 +232,7 @@
 				412EB96B23FD1413000FDAA3 /* Sources */,
 				412EB96C23FD1413000FDAA3 /* Frameworks */,
 				412EB96D23FD1413000FDAA3 /* Resources */,
+				E6E11DF52B373A5EE55457F9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -358,21 +359,38 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		B802AA18AB95138DF4898E41 /* [CP] Embed Pods Frameworks */ = {
+		B35C17D07BF25F6EDEE9C4CA /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E6E11DF52B373A5EE55457F9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		EE43595A3F08B1AFAF8EF5C6 /* [CP] Check Pods Manifest.lock */ = {
