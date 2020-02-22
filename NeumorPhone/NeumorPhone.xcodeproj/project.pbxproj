@@ -17,6 +17,9 @@
 		412EB96923FD1413000FDAA3 /* NeumorPhoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EB96823FD1413000FDAA3 /* NeumorPhoneTests.swift */; };
 		412EB97423FD1413000FDAA3 /* NeumorPhoneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EB97323FD1413000FDAA3 /* NeumorPhoneUITests.swift */; };
 		412EB98323FD3386000FDAA3 /* RTMPBroadcaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EB98223FD3386000FDAA3 /* RTMPBroadcaster.swift */; };
+		B4B2B35B4961792D316120DD /* Pods_NeumorPhone.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 513DDB282DCF9B02644FE0AB /* Pods_NeumorPhone.framework */; };
+		F139A3BBB4AD2FD49ADDD579 /* Pods_NeumorPhone_NeumorPhoneUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA415078C0B7DF9DCCCCAD5F /* Pods_NeumorPhone_NeumorPhoneUITests.framework */; };
+		F586543378FADB16677862B4 /* Pods_NeumorPhoneTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0EADBC5CBD1340691BE80720 /* Pods_NeumorPhoneTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +40,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		005E1C09216346F9653E97D9 /* Pods-NeumorPhone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeumorPhone.release.xcconfig"; path = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone.release.xcconfig"; sourceTree = "<group>"; };
+		0EADBC5CBD1340691BE80720 /* Pods_NeumorPhoneTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NeumorPhoneTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		12F0DCC1C543DE8E0DCCA035 /* Pods-NeumorPhone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeumorPhone.debug.xcconfig"; path = "Target Support Files/Pods-NeumorPhone/Pods-NeumorPhone.debug.xcconfig"; sourceTree = "<group>"; };
+		211CA717E08E311299A3A90B /* Pods-NeumorPhoneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeumorPhoneTests.release.xcconfig"; path = "Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests.release.xcconfig"; sourceTree = "<group>"; };
+		3EACF25F7CD229BCA462EB98 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig"; path = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig"; sourceTree = "<group>"; };
 		412EB94B23FD140E000FDAA3 /* NeumorPhone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NeumorPhone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		412EB94E23FD140E000FDAA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		412EB95023FD140E000FDAA3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -53,6 +61,10 @@
 		412EB97323FD1413000FDAA3 /* NeumorPhoneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorPhoneUITests.swift; sourceTree = "<group>"; };
 		412EB97523FD1413000FDAA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		412EB98223FD3386000FDAA3 /* RTMPBroadcaster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RTMPBroadcaster.swift; sourceTree = "<group>"; };
+		4226534FC73B3E82A2B376BE /* Pods-NeumorPhoneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeumorPhoneTests.debug.xcconfig"; path = "Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests.debug.xcconfig"; sourceTree = "<group>"; };
+		513DDB282DCF9B02644FE0AB /* Pods_NeumorPhone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NeumorPhone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CCEF7BAECD45B54236153AF /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig"; path = "Target Support Files/Pods-NeumorPhone-NeumorPhoneUITests/Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		AA415078C0B7DF9DCCCCAD5F /* Pods_NeumorPhone_NeumorPhoneUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NeumorPhone_NeumorPhoneUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +72,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4B2B35B4961792D316120DD /* Pods_NeumorPhone.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -67,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F586543378FADB16677862B4 /* Pods_NeumorPhoneTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F139A3BBB4AD2FD49ADDD579 /* Pods_NeumorPhone_NeumorPhoneUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -87,6 +102,8 @@
 				412EB96723FD1413000FDAA3 /* NeumorPhoneTests */,
 				412EB97223FD1413000FDAA3 /* NeumorPhoneUITests */,
 				412EB94C23FD140E000FDAA3 /* Products */,
+				C8A37E83A23482A6CF284A34 /* Pods */,
+				847EF898FBDCBE2DD1D5CAC5 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -142,6 +159,30 @@
 			path = Tools;
 			sourceTree = "<group>";
 		};
+		847EF898FBDCBE2DD1D5CAC5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				513DDB282DCF9B02644FE0AB /* Pods_NeumorPhone.framework */,
+				AA415078C0B7DF9DCCCCAD5F /* Pods_NeumorPhone_NeumorPhoneUITests.framework */,
+				0EADBC5CBD1340691BE80720 /* Pods_NeumorPhoneTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C8A37E83A23482A6CF284A34 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				12F0DCC1C543DE8E0DCCA035 /* Pods-NeumorPhone.debug.xcconfig */,
+				005E1C09216346F9653E97D9 /* Pods-NeumorPhone.release.xcconfig */,
+				6CCEF7BAECD45B54236153AF /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */,
+				3EACF25F7CD229BCA462EB98 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */,
+				4226534FC73B3E82A2B376BE /* Pods-NeumorPhoneTests.debug.xcconfig */,
+				211CA717E08E311299A3A90B /* Pods-NeumorPhoneTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -149,6 +190,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 412EB97823FD1413000FDAA3 /* Build configuration list for PBXNativeTarget "NeumorPhone" */;
 			buildPhases = (
+				3EAEC5C8556E8F99374DE060 /* [CP] Check Pods Manifest.lock */,
 				412EB94723FD140E000FDAA3 /* Sources */,
 				412EB94823FD140E000FDAA3 /* Frameworks */,
 				412EB94923FD140E000FDAA3 /* Resources */,
@@ -166,9 +208,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 412EB97B23FD1413000FDAA3 /* Build configuration list for PBXNativeTarget "NeumorPhoneTests" */;
 			buildPhases = (
+				EE43595A3F08B1AFAF8EF5C6 /* [CP] Check Pods Manifest.lock */,
 				412EB96023FD1413000FDAA3 /* Sources */,
 				412EB96123FD1413000FDAA3 /* Frameworks */,
 				412EB96223FD1413000FDAA3 /* Resources */,
+				B802AA18AB95138DF4898E41 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -184,6 +228,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 412EB97E23FD1413000FDAA3 /* Build configuration list for PBXNativeTarget "NeumorPhoneUITests" */;
 			buildPhases = (
+				B2FE2715C0CF5B7F2C1C5F3A /* [CP] Check Pods Manifest.lock */,
 				412EB96B23FD1413000FDAA3 /* Sources */,
 				412EB96C23FD1413000FDAA3 /* Frameworks */,
 				412EB96D23FD1413000FDAA3 /* Resources */,
@@ -267,6 +312,92 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3EAEC5C8556E8F99374DE060 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NeumorPhone-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B2FE2715C0CF5B7F2C1C5F3A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NeumorPhone-NeumorPhoneUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B802AA18AB95138DF4898E41 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NeumorPhoneTests/Pods-NeumorPhoneTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EE43595A3F08B1AFAF8EF5C6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NeumorPhoneTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		412EB94723FD140E000FDAA3 /* Sources */ = {
@@ -448,6 +579,7 @@
 		};
 		412EB97923FD1413000FDAA3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 12F0DCC1C543DE8E0DCCA035 /* Pods-NeumorPhone.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -466,6 +598,7 @@
 		};
 		412EB97A23FD1413000FDAA3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 005E1C09216346F9653E97D9 /* Pods-NeumorPhone.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -484,6 +617,7 @@
 		};
 		412EB97C23FD1413000FDAA3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4226534FC73B3E82A2B376BE /* Pods-NeumorPhoneTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -506,6 +640,7 @@
 		};
 		412EB97D23FD1413000FDAA3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 211CA717E08E311299A3A90B /* Pods-NeumorPhoneTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -528,6 +663,7 @@
 		};
 		412EB97F23FD1413000FDAA3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6CCEF7BAECD45B54236153AF /* Pods-NeumorPhone-NeumorPhoneUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -548,6 +684,7 @@
 		};
 		412EB98023FD1413000FDAA3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3EACF25F7CD229BCA462EB98 /* Pods-NeumorPhone-NeumorPhoneUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

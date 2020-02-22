@@ -17,10 +17,10 @@ class ViewController: UIViewController, RPScreenRecorderDelegate {
         super.viewDidLoad()
     }
     
-    @IBAction func startScreenCapture(_ sender: Any) {
+    @IBAction func startScreenCapture(_ sender: UIButton) {
         rpScreenRecorder.startCapture(handler: { (cmSampleBuffer, rpSampleBufferType, error) in
             if (error != nil) {
-                print("Error is occurred: \(error.debugDescription)")
+                print("Error occurred: \(error.debugDescription)")
             } else {
                 if (rpSampleBufferType == RPSampleBufferType.audioApp) {
                     print("Audio")
@@ -33,9 +33,21 @@ class ViewController: UIViewController, RPScreenRecorderDelegate {
                 print("error occurred: \(error.debugDescription)")
             } else {
                 print("Success")
+                sender.isEnabled = false
             }
         })
     }
+    
+    @IBAction func stopScreenCapture(_ sender: Any) {
+        rpScreenRecorder.stopCapture(handler: { (error) in
+            if error != nil {
+                print("Error ocurred: \(error.debugDescription)")
+            } else {
+                print("Success")
+            }
+        })
+    }
+    
     
     // MARK: RPScreenRecorderDelegate
     public func screenRecorder(_ screenRecorder: RPScreenRecorder, didStopRecordingWith previewViewController: RPPreviewViewController?, error: Error?) {

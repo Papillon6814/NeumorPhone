@@ -18,9 +18,17 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wfU-9t-nas">
                                 <rect key="frame" x="156" y="412" width="102" height="73"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="START"/>
                                 <connections>
                                     <action selector="startScreenCapture:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cMJ-wQ-j8X"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Inb-jr-Qrh">
+                                <rect key="frame" x="188" y="610" width="39" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="STOP"/>
+                                <connections>
+                                    <action selector="stopScreenCapture:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qpT-LJ-rUi"/>
                                 </connections>
                             </button>
                         </subviews>

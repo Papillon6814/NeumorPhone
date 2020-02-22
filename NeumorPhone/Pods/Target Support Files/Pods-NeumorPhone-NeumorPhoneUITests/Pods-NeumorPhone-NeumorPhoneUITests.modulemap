@@ -1,0 +1,6 @@
+framework module Pods_NeumorPhone_NeumorPhoneUITests {
+  umbrella header "Pods-NeumorPhone-NeumorPhoneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
