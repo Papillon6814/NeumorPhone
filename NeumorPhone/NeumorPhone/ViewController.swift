@@ -30,9 +30,9 @@ class ViewController: UIViewController, RPScreenRecorderDelegate {
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
-        sharedRecorder = RPScreenRecorder.shared()
-        broadcaster.streamName = "sampleStream"
-        broadcaster.connect("rtmp://0.0.0.0:1935/", arguments: nil)
+//        sharedRecorder = RPScreenRecorder.shared()
+//        broadcaster.streamName = "sampleStream"
+//        broadcaster.connect("rtmp://0.0.0.0:1935/", arguments: nil)
     }
     
     override func didReceiveMemoryWarning() {
